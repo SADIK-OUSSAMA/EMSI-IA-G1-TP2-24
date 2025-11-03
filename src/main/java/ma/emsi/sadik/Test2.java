@@ -7,7 +7,7 @@ import dev.langchain4j.model.input.PromptTemplate;
 
 import java.util.Map;
 
-public class test2 {
+public class Test2 {
 
     public static void main(String[] args) {
         String cle = System.getenv("GEMINI_API_KEY");
